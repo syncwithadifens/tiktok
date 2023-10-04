@@ -220,7 +220,7 @@ class HomePage extends StatelessWidget {
                 ),
                 const SizedBox(width: 6),
                 Text(
-                  "Sajon.co",
+                  "Afiv",
                   style: AppTheme.blackTextStyle
                       .copyWith(fontWeight: AppTheme.bold, fontSize: 12),
                 ),

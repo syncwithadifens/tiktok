@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+- BLoC State Management
+- Consume local data
 
-A few resources to get you started if this is your first Flutter project:
+### Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|                                                           |                                                           |
+| --------------------------------------------------------- | --------------------------------------------------------- |
+| Home Page                                                 | Profile Page                                              |
+| ![Alt text](assets/github_demo/Screenshot_1696439627.png) | ![Alt text](assets/github_demo/Screenshot_1696439627.png) |
